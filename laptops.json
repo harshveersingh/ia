@@ -1,43 +1,43 @@
 [
 	{
-		Name: "Apple",
-		Children: [
+		"Name": "Apple",
+		"Children": [
 			{
-				Name: "MacBook Air",
-				Children: []
+				"Name": "MacBook Air",
+				"Children": []
 			},
 			{
-				Name: "MacBook Pro",
-				Children: []
+				"Name": "MacBook Pro",
+				"Children": []
 			}
 		]
 	},
 	{
-		Name: "Windows",
-		Children: [
+		"Name": "Windows",
+		"Children": [
 			{
-				Name: "Dell",
-				Children: [
+				"Name": "Dell",
+				"Children": [
 					{
-						Name: "Inspiron",
-						Children: []
+						"Name": "Inspiron",
+						"Children": []
 					},
 					{
-						Name: "Latitude",
-						Children: []
+						"Name": "Latitude",
+						"Children": []
 					}
 				]
 			},
 			{
-				Name: "HP",
-				Children: [
+				"Name": "HP",
+				"Children": [
 					{
-						Name: "Pavilion",
-						Children: []
+						"Name": "Pavilion",
+						"Children": []
 					},
 					{
-						Name: "Envy",
-						Children: []
+						"Name": "Envy",
+						"Children": []
 					}
 				]
 			}
