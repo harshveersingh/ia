@@ -1,0 +1,46 @@
+[
+	{
+		Name: "Apple",
+		Children: [
+			{
+				Name: "iPhone 6",
+				Children: []
+			},
+			{
+				Name: "iPhone 5",
+				Children: []
+			}
+		]
+	},
+	{
+		Name: "Android",
+		Children: [
+			{
+				Name: "Goole",
+				Children: [
+					{
+						Name: "Pixel 2",
+						Children: []
+					},
+					{
+						Name: "Pixel 3",
+						Children: []
+					}
+				]
+			},
+			{
+				Name: "1 Plus",
+				Children: [
+					{
+						Name: "1 Plus 6",
+						Children: []
+					},
+					{
+						Name: "1 Plus 7",
+						Children: []
+					}
+				]
+			}
+		]
+	}
+]
